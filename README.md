@@ -1,4 +1,11 @@
-### Hi there 👋
+### Howdy, I'm Andrew 👋
+
+- 👨🏻‍💻 I’m currently working on a NextJS product, React projects, and custom WordPress solutions
+- 🌱 I’m currently learning Redux and testing with _Jest_
+- 💬 Ask me about accessibility, right size solutions, and design focused development!
+- 📫 How to reach me: [schaferandrew@outlook.com](schaferandrew@outlook.com)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I normally have a pair of travel chopsticks near me.
 
 <!--
 **schaferandrew/schaferandrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
