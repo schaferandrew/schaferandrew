@@ -1,7 +1,7 @@
 ### Howdy, I'm Andrew 👋
 
 - 👨🏻‍💻 I’m working on awesome React and Ruby projects.
-- 🌱 I’m currently learning Redux, testing with _Jest_, and NX.
+- 🌱 I’m currently learning NextJS using the app router and Ruby on Rails.
 - 💬 Ask me about accessibility, right size solutions, and design focused development!
 - 📫 How to reach me: [schaferandrew@outlook.com](schaferandrew@outlook.com)
 - 😄 Pronouns: he/him
